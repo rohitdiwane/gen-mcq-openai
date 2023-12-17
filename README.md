@@ -6,11 +6,10 @@
  This process streamlines the creation of assessment materials, aiding educators, content creators, or organizations in rapidly generating quiz-style questions from textual resources.
 "
 
+------------------------------------------------------------------------------------
+Following are some important commands you can use on the local machine and AWS EC2:-
 
-Following some commands can you use on local machine and AWS EC2 :-
-
-"""
------------ Local Machine -------------------------
+         ----------- Local Machine -------------------------
 
 conda create -p env python=3.8 -y
 
@@ -36,7 +35,7 @@ python setup.py install
 
 streamlit run StreamlitApp.py
 
---------------------- AWS EC2 -------------------------------
+        --------------------- AWS EC2 -------------------------------
 
 sudo apt update
 
@@ -56,15 +55,16 @@ pip3 install -r requirements.txt
 
 python3 -m streamlit run StreamlitApp.py
 
----
-### add & access openai_key => 
+          ---------------
+## add & access openai_key => 
 
-create .env file = touch .env 
-                    ls -a
+create .env file = touch .env # creating folder as .env
+                 = ls -a # add files
+                 = vi .env # opening file
+                 = :wq # for exit()
+                 = cat .env # reading
+                 
 and insert copy openai_key & esc key & :wq --> hit enter 
 
 ---------------
-
-
-"""
 
