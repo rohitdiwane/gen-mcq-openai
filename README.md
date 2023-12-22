@@ -1,4 +1,4 @@
-# 🎯Automated MCQ Generation: by Text/PDF - Langchain LLM 🐦🔗
+# 🎯Automated MCQ Generation: by Text/PDF - Langchain OpenAI LLM 🐦🔗
 
 "
  Aims to automate the creation of multiple-choice questions (MCQs) from textual content or PDF documents. 
