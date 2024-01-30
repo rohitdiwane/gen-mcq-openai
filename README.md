@@ -6,6 +6,10 @@
  This process streamlines the creation of assessment materials, aiding educators, content creators, or organizations in rapidly generating quiz-style questions from textual resources.
 "
 
+
+https://github.com/rohitdiwane/gen-mcq-openai/assets/140241900/7386406a-8eef-4033-af14-cf8e74fd8efc
+
+
 ------------------------------------------------------------------------------------
 Following are some important commands you can use on the local machine and AWS EC2:-
 
